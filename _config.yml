@@ -3,7 +3,7 @@ title: Les traducteurs agiles
 email: contact@les-traducteurs-agiles.org
 description: > # this means to ignore newlines until "baseurl:"
   Partager avec chacun la connaissance acquise auprès de chacun
-baseurl: /lta-jekyll
+baseurl: /test-pages-site
 url: "http://roberts-sandbox.github.io/"  # the base hostname & protocol for your site
 twitter_username: traducteuragile
 github_username:  les-traducteurs-agiles

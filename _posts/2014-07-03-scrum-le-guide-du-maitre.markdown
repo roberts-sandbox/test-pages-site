@@ -13,7 +13,7 @@ Dans cet article, je vais vous introduire à une notation symbolique et visuelle
 Commençons avec l'équipe. Un groupe de braves aventuriers, traversant les vastes plaines du développement logiciel, bravant le danger les attendant à chaque tournant.
 
 <div align="center">
-  <img title="Le groupe" src="/assets/gdm_scrum/party.png" />
+  <img title="Le groupe" src="{{ site.baseurl }}/assets/gdm_scrum/party.png" />
 </div>
 
 Comme vous pouvez le constater, les membres de l'équipe ne sont pas identiques, car chacun à des compétences spécifiques. Imaginez respectivement l'expert en base de données, le testeur et le concepteur d'IHM en guerrier, magicien et voleur. Remarquez que bien qu'ils soient différents, ils ont tous la même importance.. C'est une question d'une bonne conception de jeu. Si un prêtre ne peut rien faire d'autre que guérir (et donc il ne serait rien de plus qu'un rabais ambulant sur des potions de guérisons), tout le monde voudra jouer le magicien. 
